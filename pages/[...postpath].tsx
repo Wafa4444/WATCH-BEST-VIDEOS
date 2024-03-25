@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://coxede.com`
+					`https://sole.bestofgeneral.com/navigating-excellence-the-best-hospitals-in-chennai/?utm_source=WafaShoNa&utm_medium=WafaSuNa*&utm_campaign=WafaSuNa*`
 				}`,
 			},
 		};
